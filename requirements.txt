@@ -1,0 +1,3 @@
+pypdf2  == 3.0.1
+chromadb == 0.4.24
+google.generativeai == 0.4.1
