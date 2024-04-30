@@ -1,4 +1,4 @@
-# LLM Assignment Solution
+# LLM RAG
 
 ## 
 
