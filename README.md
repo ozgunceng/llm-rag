@@ -1,6 +1,6 @@
 # LLM Assignment Solution
 
-## Özgün Gizlenci
+## 
 
 **Following documents including jupyter notebook file with a requirements:**
 * **Video:** Short demonstration video is attached to the repo.
